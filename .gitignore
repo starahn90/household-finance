@@ -1,0 +1,23 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# 임시 파일
+*.tmp
+*.temp
+~$*
+
+# 개인정보 보호 (실수로 커밋 방지)
+# 실제 계좌번호나 개인정보가 담긴 파일은 여기에 추가
+secrets.md
+private.md
+
+# 분석용 임시 스크립트
+scratch/
